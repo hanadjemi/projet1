@@ -1,2 +1,4 @@
 #!/bin/bash
-sudo apt-get install initdev 
+mkdir bin
+mkdir sources
+mkdir makefiles
